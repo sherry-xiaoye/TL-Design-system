@@ -8,14 +8,13 @@ This repo contains BMS Design System Markdown docs.
 
 Keep this structure:
 
-设计系统文档/
+```text
+DesignSystem_Docs/
 ├── Guidelines/
 ├── Foundations/
 ├── Components/
 ├── Patterns/
 ├── README.md
-
-Do not add new top-level folders.
 
 ## Source of truth
 
