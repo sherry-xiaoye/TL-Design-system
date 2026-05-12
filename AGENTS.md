@@ -9,7 +9,7 @@ This repo contains BMS Design System Markdown docs.
 Keep this structure:
 
 ```text
-DesignSystem_Docs/
+BMS_DesignSystem_Docs/
 ├── Guidelines/
 ├── Foundations/
 ├── Components/
