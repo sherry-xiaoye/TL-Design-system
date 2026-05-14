@@ -2,14 +2,14 @@
 
 ## Project
 
-This repo contains BMS Design System Markdown docs.
+This repo contains Design System Markdown docs.
 
 ## Target structure
 
 Keep this structure:
 
 ```text
-BMS_DesignSystem_Docs/
+DesignSystem_Docs/
 ├── Guidelines/
 ├── Foundations/
 ├── Components/
