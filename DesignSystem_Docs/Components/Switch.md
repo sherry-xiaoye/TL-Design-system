@@ -12,26 +12,19 @@
   - `Small`：`40px x 20px`
 - State：`Default`, `Disabled`
 - Show：`On`, `Off`
-- 颜色：优先使用 Semantic Token，其次 Primitive Token，禁止自定义色值
-- 圆角：待定
-- 滑块尺寸：待定
+- 颜色：`Icon/Success`,`Icon/Select-Disabled`,`Icon/Inverse`,`Icon/Thirdly`，禁止自定义色值
 
 ## 1.3 状态规范
 
 - default：`State=Default`
-- hover：待定
-- active / focus：待定
-- blur：待定
 - disabled：`State=Disabled`
-- error：不适用
-- loading：待定
 - on：`Show=On`
 - off：`Show=Off`
 
 ## 1.4 交互规则
 
 - 点击后在 On / Off 之间切换。
-- 用于即时生效配置时，应有成功或失败反馈，反馈样式待定。
+- 用于即时生效配置时，应有成功或失败反馈，反馈样式为图标颜色变化。
 - 禁用状态不可点击。
 
 ## 1.5 业务场景示例

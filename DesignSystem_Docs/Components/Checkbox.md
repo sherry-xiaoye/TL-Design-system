@@ -7,23 +7,22 @@
 ## 1.2 视觉规范
 
 - 组件：`Checkbox`
-- 颜色：优先使用 Semantic Token，其次 Primitive Token，禁止自定义色值
-- 尺寸：待定
-- 字体：待定
-- 图标：勾选、半选图标样式待定
+- `Normol`: 图标使用 `Icon/Checkbox`, `Icon/Brand`, `Icon/Inverse`，文字：`Body/文本`,`Text/Primary`
+- `Selected`: 图标使用 `Icon/Checkbox-Selected`, `Icon/Brand`, `Icon/Inverse`，文字：`Body/文本`,`Text/Primary`
+- `Disabled`: 图标使用 `Icon/Checkbox`, `Border/Disabled`, `Background/Disabled Subtle`，文字：`Body/文本`,`Text/Disabled`
+- `SelectDisabled`:图标使用 `Icon/Checkbox-Selected`, `Border/Disabled`,`Background/Disabled Subtle`, `Background/Disabled`，文字：`Body/文本`,`Text/Disabled`
+- `Selectpart`: 图标使用 `Icon/Checkbox-Selectpart`, `Icon/Brand`, `Icon/Inverse`，文字：`Body/文本`,`Text/Primary`
+- 颜色：禁止自定义色值
+- 图标：`Size/16*16`
 
 ## 1.3 状态规范
 
 - default：`Normol`
-- selected：`Select`
-- disabled：`Disable`
-- selected disabled：`SelectDisable`
+- selected：`Selected`
+- disabled：`Disabled`
+- selected disabled：`SelectDisabled`
 - indeterminate：`Selectpart`
-- hover：待定
-- active / focus：待定
-- blur：待定
-- error：待定
-- loading：不适用
+
 
 ## 1.4 交互规则
 

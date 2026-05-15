@@ -9,29 +9,21 @@
 ### 1.2 视觉规范
 
 - 组件：`Popover`
-- 颜色：优先使用 Semantic Token，其次 Primitive Token，禁止自定义色值
-- 尺寸：待定
-- 圆角：待定
-- 阴影：待定
-- 字体：待定
-- 图标：待定
+- 颜色：`Text/Primary`,`Background/Default`，禁止自定义色值
+- 尺寸：最大宽度`400`，高度不限
+- 圆角：`Radius/Card Small`
+- 阴影：`Drop shadow`
+- 字体：`Body/文本`
 
 ### 1.3 状态规范
 
 - default：默认浮层
-- hover：待定
-- active / focus：待定
-- blur：失焦关闭规则待定
-- disabled：待定
-- error：待定
-- loading：待定
 
 ### 1.4 交互规则
 
-- 点击或悬浮触发方式待定。
+- 点击或悬浮触发方式。
 - 浮层内容应与触发对象强关联。
-- 点击外部是否关闭：待定。
-- 异常场景处理逻辑：待定。
+- 点击外部是否关闭：关闭。
 
 ### 1.5 业务场景示例
 
@@ -60,29 +52,20 @@
 ### 1.2 视觉规范
 
 - 组件：`Tooltip`
-- 颜色：优先使用 Semantic Token，其次 Primitive Token，禁止自定义色值
-- 尺寸：待定
-- 圆角：待定
-- 阴影：待定
-- 字体：待定
-- 图标：待定
+- 颜色：`Text/Inverse`,`Text/TableHeader`，禁止自定义色值
+- 尺寸：最大宽度`400`，高度不限
+- 圆角：`Radius/Card Small`
+- 字体：`Body/文本`
 
 ### 1.3 状态规范
 
 - default：默认提示
-- hover：触发提示展示
-- active / focus：待定
-- blur：鼠标移出或失焦关闭，具体规则待定
-- disabled：待定
-- error：不适用
-- loading：不适用
 
 ### 1.4 交互规则
 
 - 用于短说明，不承载复杂操作。
 - 表格文本截断时可使用 Tooltip 展示完整内容。
 - 不应用 Tooltip 替代错误提示或确认弹窗。
-- 异常场景处理逻辑：待定。
 
 ### 1.5 业务场景示例
 

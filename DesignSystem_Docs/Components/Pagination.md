@@ -10,19 +10,21 @@
 - Style：
   - `Number`：`220px x 44px`
   - `Select`：`474px x 60px`
-- 颜色：优先使用 Semantic Token，其次 Primitive Token，禁止自定义色值
-- 字体、间距、圆角、边框：待定
-- 图标：翻页图标名称、尺寸、颜色 Token 待定
+- 颜色：`Text/Primary`,`Text/Brand`,`Icon/Primary`,`Border/Default`，禁止自定义色值
+- 字体：`Body/文本`
+- 间距:`8`
+- 圆角：`Radius/Form`
+- 边框：`1`,`Border/Default`
+- 图标：`Arrow-Left`,`Arrow-Right`,`Size/16*16`
 
 ## 1.3 状态规范
 
 - default：默认分页展示
-- hover：待定
-- active / focus：当前页激活状态待定
-- blur：待定
-- disabled：上一页 / 下一页不可用状态待定
-- error：不适用
-- loading：待定
+- hover：鼠标悬停时触发，文字/图标颜色变化
+- active：当前页激活状态，文字/图标颜色变化
+- disabled：上一页 / 下一页不可用状态
+
+
 
 ## 1.4 交互规则
 

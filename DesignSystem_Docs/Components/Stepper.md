@@ -8,22 +8,26 @@
 
 - 组件：`Stepper`
 - 尺寸：`132px x 36px`
-- 颜色：优先使用 Semantic Token，其次 Primitive Token，禁止自定义色值
-- 内边距：待定
-- 圆角：待定
-- 边框：待定
-- 字体：待定
-- 图标：增减图标名称、尺寸、颜色 Token 待定
+- 颜色：
+- `Default`：文字使用`Text/Primary`，背景使用`Background/Default`,`Border/Default`,图标使用`Icon/Minus`,`Icon/Plus`,`Icon/Primary`
+- `Hover`：文字使用`Text/Primary`，背景使用`Background/Hover`,`Border/Hover`,图标使用`Icon/Minus`,`Icon/Plus`,`Icon/Primary`
+- `Active`：文字使用`Text/Primary`，背景使用`Background/Active`,`Border/Active`,图标使用`Icon/Minus`,`Icon/Plus`,`Icon/Primary`
+- `Blur`：文字使用`Text/Primary`，背景使用`Background/Blur`,`Border/Blur`,图标使用`Icon/Minus`,`Icon/Plus`,`Icon/Primary`
+- `Disabled`：文字使用`Text/Disabled`，背景使用`Background/Disabled Subtle`,`Border/Disabled`,图标使用`Icon/Minus`,`Icon/Plus`,`Icon/Disabled`
+- 禁止自定义色值
+- 圆角：左右两边圆角`Radius/Form`
+- 边框：`1`
+- 字体：`Text/Primary`
+- 图标：`Size/16*16`
 
 ## 1.3 状态规范
 
 - default：`Default`
 - hover：`Hover`
-- active / focus：`Active`
+- active：`Active`
 - blur：`Blur`
 - disabled：`Disabled`
-- error：待定
-- loading：不适用
+
 
 ## 1.4 交互规则
 
