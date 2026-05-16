@@ -9,7 +9,7 @@ This repo contains Design System Markdown docs.
 Keep this structure:
 
 ```text
-DesignSystem_Docs/
+TL_DesignSystem_Docs/
 ├── Guidelines/
 ├── Foundations/
 ├── Components/
