@@ -22,6 +22,7 @@ Body
 | `Body padding` | `20px` | 主内容区内边距 |
 
 Body 区域遵循 `Foundations/Grid.md` 中的 8 栅格与 Breakpoint 规则。
+`AppHeader` 的内部结构、尺寸和交互规则见 `Components/AppHeader.md`。
 
 ## 2. 页面内容结构
 

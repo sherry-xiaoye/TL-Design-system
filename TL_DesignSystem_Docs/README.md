@@ -25,6 +25,7 @@ TL_DesignSystem_Docs/
 │   ├── Grid.md
 │   └── Icon.md
 ├── Components/
+│   ├── AppHeader.md
 │   ├── Button.md
 │   ├── Input.md
 │   ├── Select And Pickers.md
@@ -72,6 +73,7 @@ Guidelines/AI_Coding_Rules.md
 Guidelines/AI_Output_Checklist.md
 Guidelines/Naming.md
 Guidelines/Layout.md
+Components/AppHeader.md
 Foundations/Semantic Tokens.json
 Foundations/Primitives Tokens.json
 Foundations/Color.md
@@ -99,6 +101,7 @@ Guidelines/AI_Coding_Rules.md
 Guidelines/AI_Output_Checklist.md
 Guidelines/Naming.md
 Guidelines/Layout.md
+Components/AppHeader.md
 Foundations/Semantic Tokens.json
 Foundations/Primitives Tokens.json
 Foundations/Color.md
@@ -127,6 +130,7 @@ Guidelines/AI_Coding_Rules.md
 Guidelines/AI_Output_Checklist.md
 Guidelines/Naming.md
 Guidelines/Layout.md
+Components/AppHeader.md
 Foundations/Semantic Tokens.json
 Foundations/Primitives Tokens.json
 Foundations/Color.md
@@ -153,6 +157,7 @@ Guidelines/AI_Coding_Rules.md
 Guidelines/AI_Output_Checklist.md
 Guidelines/Naming.md
 Guidelines/Layout.md
+Components/AppHeader.md
 Foundations/Semantic Tokens.json
 Foundations/Primitives Tokens.json
 Foundations/Color.md

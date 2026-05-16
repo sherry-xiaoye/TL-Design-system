@@ -76,6 +76,7 @@ Component=DateRange
 文件名使用组件或页面模板英文名，并保持 README 中登记的名称。
 
 ```text
+Components/AppHeader.md
 Components/Button.md
 Components/Input.md
 Components/Select And Pickers.md
@@ -84,7 +85,6 @@ Components/Dialog.md
 Components/Feedback.md
 Components/OverlayTips.md
 Components/Default.md
-Components/Block Header.md
 Patterns/TablePage.md
 Patterns/FormPage.md
 Patterns/DetailPage.md
@@ -94,7 +94,6 @@ Patterns/DashboardPage.md
 命名规则：
 
 - 文件名不得随意改名。
-- `Components/Block Header.md` 包含空格，引用时必须保留完整文件名。
 - 一个文档承载多个相关组件时，文件名以合集语义命名，例如 `Select And Pickers.md`、`Feedback.md`、`OverlayTips.md`。
 - 新增文档前必须确认 Figma 中存在对应组件或页面模板。
 

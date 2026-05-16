@@ -11,6 +11,7 @@
 ## 尺寸与视觉
 
 - 组件：`Breadcrumb`, `Breadcrumb-Item`, `Menu-Item`, `Step-Item`, `AppHeader`, `Sidebar-Left`
+- `AppHeader` 独立规范见 `Components/AppHeader.md`
 - Menu Props：`Style`, `State`, `Icon`
 - Step Props：`State`, `Type`, `Last`
 - Header 高度：`56px`
@@ -65,6 +66,7 @@
 - `Menu-Item.Style` 映射一级 / 二级 / 三级菜单。
 - `Menu-Item.Icon` 映射是否显示图标。
 - `Step-Item.State` 映射 `Finish | Process | Wait`。
+- `AppHeader` 映射顶部全局导航壳；高度、Logo 区、右侧工具和用户入口规则以 `Components/AppHeader.md` 为准。
 
 ## 禁止事项
 
