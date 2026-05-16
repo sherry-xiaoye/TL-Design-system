@@ -38,7 +38,7 @@ Body 内部必须继续匹配 `Patterns/` 中对应页面模板：
 - 按钮必须使用系统 Button。
 - 输入框必须使用系统 Input。
 - 下拉选择必须使用系统 Select。
-- 日期、时间、日期时间选择必须使用 `Select And Pickers.md` 中的 DatePicker / TimePicker / DateTimePicker。
+- 日期、时间、日期时间选择必须使用 `SelectAndPickers.md` 中的 DatePicker / TimePicker / DateTimePicker。
 - 表格必须使用系统 Table。
 - 弹窗必须使用系统 Dialog。
 - 分页必须使用系统 Pagination。

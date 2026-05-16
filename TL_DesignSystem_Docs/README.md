@@ -5,8 +5,8 @@
 文档来源优先级：
 
 1. Figma 组件库与 Figma MCP 读取结果
-2. `Foundations/Semantic Tokens.json`
-3. `Foundations/Primitives Tokens.json`
+2. `Foundations/SemanticTokens.json`
+3. `Foundations/PrimitivesTokens.json`
 4. 已确认的 Markdown 规范文档
 
 如 Figma、Token 与 Markdown 描述不一致，以 Figma 和 Token 为准。未确认的颜色、尺寸、圆角、阴影、间距、字号、状态样式必须标记为 `待定`。
@@ -17,8 +17,8 @@
 TL_DesignSystem_Docs/
 ├── README.md
 ├── Foundations/
-│   ├── Semantic Tokens.json
-│   ├── Primitives Tokens.json
+│   ├── SemanticTokens.json
+│   ├── PrimitivesTokens.json
 │   ├── Color.md
 │   ├── Typography.md
 │   ├── Spacing.md
@@ -28,7 +28,7 @@ TL_DesignSystem_Docs/
 │   ├── AppHeader.md
 │   ├── Button.md
 │   ├── Input.md
-│   ├── Select And Pickers.md
+│   ├── SelectAndPickers.md
 │   ├── Table.md
 │   ├── Dialog.md
 │   ├── Navigation.md
@@ -58,7 +58,7 @@ TL_DesignSystem_Docs/
     └── AI_Output_Checklist.md
 ```
 
-> 注意：`Components/Select And Pickers.md` 文件名包含空格，脚本、命令行或 AI 工具读取时需要保留完整路径，必要时使用引号包裹。
+> 注意：`Components/SelectAndPickers.md` 文件名包含空格，脚本、命令行或 AI 工具读取时需要保留完整路径，必要时使用引号包裹。
 
 ## 使用方式
 
@@ -74,8 +74,8 @@ Guidelines/AI_Output_Checklist.md
 Guidelines/Naming.md
 Guidelines/Layout.md
 Components/AppHeader.md
-Foundations/Semantic Tokens.json
-Foundations/Primitives Tokens.json
+Foundations/SemanticTokens.json
+Foundations/PrimitivesTokens.json
 Foundations/Color.md
 Foundations/Typography.md
 Foundations/Spacing.md
@@ -83,7 +83,7 @@ Foundations/Grid.md
 Patterns/TablePage.md
 Components/Button.md
 Components/Input.md
-Components/Select And Pickers.md
+Components/SelectAndPickers.md
 Components/Table.md
 Components/Pagination.md
 Components/Checkbox.md
@@ -102,8 +102,8 @@ Guidelines/AI_Output_Checklist.md
 Guidelines/Naming.md
 Guidelines/Layout.md
 Components/AppHeader.md
-Foundations/Semantic Tokens.json
-Foundations/Primitives Tokens.json
+Foundations/SemanticTokens.json
+Foundations/PrimitivesTokens.json
 Foundations/Color.md
 Foundations/Typography.md
 Foundations/Spacing.md
@@ -111,7 +111,7 @@ Foundations/Grid.md
 Patterns/FormPage.md
 Components/Button.md
 Components/Input.md
-Components/Select And Pickers.md
+Components/SelectAndPickers.md
 Components/Radio.md
 Components/Checkbox.md
 Components/Switch.md
@@ -131,8 +131,8 @@ Guidelines/AI_Output_Checklist.md
 Guidelines/Naming.md
 Guidelines/Layout.md
 Components/AppHeader.md
-Foundations/Semantic Tokens.json
-Foundations/Primitives Tokens.json
+Foundations/SemanticTokens.json
+Foundations/PrimitivesTokens.json
 Foundations/Color.md
 Foundations/Typography.md
 Foundations/Spacing.md
@@ -158,8 +158,8 @@ Guidelines/AI_Output_Checklist.md
 Guidelines/Naming.md
 Guidelines/Layout.md
 Components/AppHeader.md
-Foundations/Semantic Tokens.json
-Foundations/Primitives Tokens.json
+Foundations/SemanticTokens.json
+Foundations/PrimitivesTokens.json
 Foundations/Color.md
 Foundations/Typography.md
 Foundations/Spacing.md
@@ -169,7 +169,7 @@ Components/Card.md
 Components/Title.md
 Components/Table.md
 Components/Tag.md
-Components/Select And Pickers.md
+Components/SelectAndPickers.md
 Components/OverlayTips.md
 Components/Feedback.md
 ```

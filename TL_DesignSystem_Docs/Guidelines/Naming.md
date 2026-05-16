@@ -79,7 +79,7 @@ Component=DateRange
 Components/AppHeader.md
 Components/Button.md
 Components/Input.md
-Components/Select And Pickers.md
+Components/SelectAndPickers.md
 Components/Table.md
 Components/Dialog.md
 Components/Feedback.md
@@ -94,7 +94,7 @@ Patterns/DashboardPage.md
 命名规则：
 
 - 文件名不得随意改名。
-- 一个文档承载多个相关组件时，文件名以合集语义命名，例如 `Select And Pickers.md`、`Feedback.md`、`OverlayTips.md`。
+- 一个文档承载多个相关组件时，文件名以合集语义命名，例如 `SelectAndPickers.md`、`Feedback.md`、`OverlayTips.md`。
 - 新增文档前必须确认 Figma 中存在对应组件或页面模板。
 
 ## 5. 代码组件命名

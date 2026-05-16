@@ -1,4 +1,4 @@
-# Select And Pickers
+# SelectAndPickers
 
 ## Select
 

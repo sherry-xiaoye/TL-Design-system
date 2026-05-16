@@ -57,7 +57,7 @@ Body 内部必须匹配 `Patterns/` 中对应页面模板：
 - 优先使用 `Components/` 中已定义的系统组件。
 - 禁止重复创建 Button、Input、Select、Table、Dialog、Pagination、Feedback 等基础组件。
 - 禁止用 `div` / `span` 模拟按钮、输入框、选择器、表格、弹窗等基础组件。
-- 下拉选择、级联选择、日期选择、时间选择、日期时间选择统一使用 `Select And Pickers.md` 中的组件规范。
+- 下拉选择、级联选择、日期选择、时间选择、日期时间选择统一使用 `SelectAndPickers.md` 中的组件规范。
 - 加载中统一使用 `Feedback.md` 中的 `Loading` 规范。
 - 空数据、无搜索结果、无权限或异常页面优先使用 `Default.md` 或 `Feedback.md` 中的 `Default-Image / Empty` 规范。
 - 组件状态必须使用 Figma 已确认状态；未确认状态写 `待定`，不得自行新增。
